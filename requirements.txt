@@ -1,0 +1,4 @@
+BeautifulSoup==3.2.1
+ipdb==0.7
+ipython==0.13.2
+youtube-dl==2013.07.19
